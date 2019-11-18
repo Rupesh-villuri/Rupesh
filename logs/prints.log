@@ -1,0 +1,6 @@
+17:18:38.789 [main] ERROR beta.demo2 - Printing the error logs in flow
+17:18:38.792 [main] FATAL beta.demo2 - printing severe errors
+17:20:01.811 [main] DEBUG beta.demo2 - debugging the flow
+17:20:01.823 [main] INFO  beta.demo2 - Logging the general flow info
+17:20:01.823 [main] ERROR beta.demo2 - Printing the error logs in flow
+17:20:01.823 [main] FATAL beta.demo2 - printing severe errors
