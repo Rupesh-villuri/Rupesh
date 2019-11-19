@@ -13,6 +13,9 @@ public class Demo {
 		log.info("Logging the general flow info");
 		log.error("Printing the error logs in flow");
 		log.fatal("printing severe errors");
+		
+		System.out.println("Update by the original user");
+		log.info("update log by original");
 	}
 
 }
