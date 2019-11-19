@@ -15,6 +15,8 @@ public class demo2 {
 		log.info("Logging the general flow info");
 		log.error("Printing the error logs in flow");
 		log.fatal("printing severe errors");
+		
+		log.debug("update in file 2");
 	}
 
 }
